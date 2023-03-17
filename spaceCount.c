@@ -14,7 +14,7 @@ main()
 		else if(c == '\n')
 			nlc++;
 
-			//comments about nothing testing
+			//comments about nothing testing, testing, testing
 	}
 	printf("There are %d blanks, %d tabs and %d newlines in this text\n", bc, tc, nlc);
 	
