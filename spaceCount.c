@@ -13,6 +13,8 @@ main()
 			tc++;
 		else if(c == '\n')
 			nlc++;
+
+			//comments about nothing testing
 	}
 	printf("There are %d blanks, %d tabs and %d newlines in this text\n", bc, tc, nlc);
 	
